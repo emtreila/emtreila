@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Melania!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F771E6&width=435&lines=Thanks+for+checking+out+my+GitHub+projects!)](https://git.io/typing-svg)---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F771E6&width=435&lines=Thanks+for+checking+out+my+GitHub+projects!)](https://git.io/typing-svg)
 ---
 
 🎓 **Currently studying:** Computer Science at **Babeș-Bolyai University (UBB)**  
@@ -8,11 +8,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emtreila&show_icons=true&theme=radical" alt="Melania's GitHub stats" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Assembly](https://img.shields.io/badge/Assembly-6E4C1E?style=for-the-badge&logo=assemblyscript&logoColor=white)  
 
 ---
 
