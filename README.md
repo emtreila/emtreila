@@ -7,7 +7,7 @@
 🌱 **Goals for 2025:** Build cool projects and grow as a developer   
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emtreila&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emtreila&layout=compact&cache_seconds=1)
 ---
 
 ⭐️ *Thanks for visiting my profile!*
